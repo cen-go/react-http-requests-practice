@@ -9,6 +9,7 @@ lerna-debug.log*
 
 node_modules
 backend/images/*
+backend/data
 dist
 dist-ssr
 *.local
